@@ -199,8 +199,8 @@ class Home extends Component {
           section {
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
-            height: 580px;
+            justify-content: flex-start;
+            height: 100vh;
             padding-bottom: 30px;
           }
         `}</style>

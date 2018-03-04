@@ -119,19 +119,19 @@ class Edit extends Component {
           section {
             display: flex;
             flex-direction: column;
-            jutify-content: space-between;
-            height: 580px;
+            jutify-content: flex-start;
+            height: 100vh;
             padding-bottom: 30px;
           }
 
           form {
-            height: calc(580px - 148px);
-            max-height: calc(580px - 148px);
+            height: calc(100vh - 148px);
+            max-height: calc(100vh - 148px);
             margin-top: 30px;
             overflow-y: auto;
             display: flex;
             flex-direction: column;
-            justify-content: space-between;
+            justify-content: flex-start;
           }
 
           span {

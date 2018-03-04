@@ -58,7 +58,7 @@ class Start extends Component {
             align-items: center;
             text-align: center;
             width: 100%;
-            height: 580px;
+            height: 100vh;
             padding-bottom: 50px;
           }
 

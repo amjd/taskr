@@ -26,8 +26,6 @@ app.on('ready', async () => {
     height: 580,
     minWidth: 320,
     minHeight: 580,
-    maxWidth: 320,
-    maxHeight: 580,
     resizable: true,
     backgroundColor: '#000000',
     frame: platform() !== 'win32',

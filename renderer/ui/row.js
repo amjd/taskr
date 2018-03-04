@@ -7,7 +7,7 @@ const Row = ({ children }) => {
 
       <style jsx>{`
         div {
-          max-width: 320px;
+          max-width: 90vw;
           margin-left: auto;
           margin-right: auto;
           padding-right: 25px;
